@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs at midnight every day
+    - cron: "0 */6 * * *" # Runs every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -13,19 +13,27 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      - name: Create dist directory
-        run: mkdir -p dist
-
       - name: Generate Snake Animation
         uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: code-walker-23
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Show git status
+        run: git status
+
+      - name: Commit and push changes
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/github-snake.svg
+          branch: output
+          force: true
 
-      - name: Commit and push
-        uses: EndBug/add-and-commit@v7
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          author_name: "github-actions[bot]"
-          author_email: "github-actions[bot]@users.noreply.github.com"
-          message: "Generate snake animation"
-          add: "dist/github-snake.svg"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
