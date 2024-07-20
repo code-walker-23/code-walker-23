@@ -30,6 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-walker-23&" alt="code-walker-23" /></p>
 
-![snake gif](https://github.com/code-walker-23/code-walker-23/blob/output/github-contribution-grid-snake.svg)
-
 
