@@ -40,12 +40,6 @@
 <br><br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 </div>
-
-
-
-
-
-
         
 <!-- ![snake gif](https://github.com/code-walker-23/code-walker-23/blob/output/github-contribution-grid-snake.gif) -->
 
