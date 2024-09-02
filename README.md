@@ -31,22 +31,16 @@
  <br>
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=code-walker-23&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-walker-23&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=8" alt="arin-paliwal" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&exclude_repo=arin-paliwal.Diabetes-Prediction-System&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=8&card_width=500&card_height=500)](https://github.com/arin-paliwal/arin-paliwal)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-walker-23&theme=ambient_gradient&card_width=500&&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-walker-23&theme=ambient_gradient&card_width=500&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-walker-23&theme=ambient_gradient&card_width=400&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+<br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 </div>
 
 [![Vinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-walker-23&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
 
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-</div>
 
 
 
