@@ -44,8 +44,8 @@
 
 </div>
 
-![snake gif](https://github.com/code-walker-23/code-walker-23/blob/output/github-contribution-grid-snake.gif)
+
         
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ![snake gif](https://github.com/code-walker-23/code-walker-23/blob/output/github-contribution-grid-snake.gif) -->
 
 
