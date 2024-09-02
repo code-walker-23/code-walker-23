@@ -33,7 +33,7 @@
 
   # 📊 GitHub Stats:
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=code-walker-23&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=code-walker-23&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 630px;" />
     <br />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-walker-23&theme=ambient_gradient&hide_border=true" alt="GitHub Streak" />
     <br />
