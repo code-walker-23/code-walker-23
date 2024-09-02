@@ -35,9 +35,9 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=code-walker-23&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 630px;" />
     <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-walker-23&theme=ambient_gradient&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-walker-23&theme=ambient_gradient&hide_border=true" alt="GitHub Streak" style="width: 630px;" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-walker-23&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-walker-23&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 630px;"/>
   </div>
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
