@@ -7,11 +7,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+👋+I+am+Vinay+Chhabra;A+React+Enthusiast;A+JavaScript+Developer;A+Competitive+Programmer;Learning+and+Growing" alt="Typing SVG"/>
         
 </div>
-<div align="center">
-         <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=code-walker-23&icon=0&color=0" alt="Visit Count" />
-  </a>
-</div>
+ <div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=code-walker-23&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+<br>
+  
+ </div>
 
 
 
