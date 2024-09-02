@@ -39,13 +39,13 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-walker-23&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </div>
-
-  <h3>✍️ Random Dev Quote</h3>
+  <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
 
-  
 </div>
 
+![snake gif](https://github.com/code-walker-23/code-walker-23/blob/output/github-contribution-grid-snake.gif)
+        
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
