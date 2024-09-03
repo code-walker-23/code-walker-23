@@ -69,8 +69,7 @@ src="https://img.shields.io/github/followers/code-walker-23?logo=github&style=fo
 <br>
 <br>
 [![Vinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-walker-23&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
-<br><br>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<br>
 
 </div>
 
@@ -85,4 +84,9 @@ Markdown   10 mins         ███████▓░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
+<div align="center">
+  
+<br><br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+</div>
