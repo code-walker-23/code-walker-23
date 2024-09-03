@@ -79,15 +79,10 @@ src="https://img.shields.io/github/followers/code-walker-23?logo=github&style=fo
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 </div>
 
-
-
-<div align="center">
-
-### Coding Stats
- 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<div align="center">
 
 [![Vinay Chhabra's wakatime stats](https://github-readme-stats-code-walker-23s-projects.vercel.app/api/wakatime?username=coder_walker)](https://github.com/anuraghazra/github-readme-stats)        
 
