@@ -13,8 +13,8 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
   background-color: #f9f9f9;
 ">
-<h2>💫 About Me</h2>
-<p>🌱 <strong>I’m currently learning Data Structures and Algorithms (DSA)</strong></p>
+<h2>💫 About Me:</h2>
+<p>🌱 <strong>I’m currently learning Data Structures and Algorithms</strong></p>
 <p>💬 <strong>Ask me about:</strong></p>
 <ul>
   <li>Data Structures and Algorithms</li>
@@ -25,7 +25,7 @@
 <h2>📫 How to reach me:</h2>
 <p>Email: <a href="mailto:Chhabravinay549@gmail.com">Chhabravinay549@gmail.com</a></p>
 
-<h2> 🌐 Socials</h2>
+<h2> 🌐 Socials:</h2>
 <p>
   <a href="https://linkedin.com/in/vinay-chhabra-a377601a9">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;"/>
