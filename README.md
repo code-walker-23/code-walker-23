@@ -23,9 +23,6 @@
 </ul>
 
 <h2>📫 How to reach me:</h2>
-
-</p>
-
 <p align="left">
 <a href="mailto:Chhabravinay549@gmail.com">
 <img src="https://github.com/user-attachments/assets/a2cf32f0-8193-444e-92c2-03506cb19107" width="35" height="35" alt="Email" />
@@ -57,9 +54,6 @@ src="https://img.shields.io/github/followers/code-walker-23?logo=github&style=fo
 
 
 
-
-
-
 # Tech Stack:
 
 <p align="left">
@@ -79,8 +73,10 @@ src="https://img.shields.io/github/followers/code-walker-23?logo=github&style=fo
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 </div>
 
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 <div align="center">
 
