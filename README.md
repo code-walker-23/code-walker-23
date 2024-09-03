@@ -76,6 +76,12 @@ src="https://img.shields.io/github/followers/code-walker-23?logo=github&style=fo
 
 
 <!--START_SECTION:waka-->
+
+```txt
+YAML       24 mins         █████████████████▒░░░░░░░   69.62 %
+Markdown   10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.38 %
+```
+
 <!--END_SECTION:waka-->
 
 
