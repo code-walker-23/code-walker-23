@@ -44,12 +44,14 @@
 </div>
 
  ### Coding Stats
-
  
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
+
+### Waketime
+
+[![Vinay Chhabra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code-walker-23)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
