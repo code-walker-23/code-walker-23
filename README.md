@@ -4,7 +4,7 @@
 
 <br><br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+👋+I+am+Vinay+Chhabra;A+React+Enthusiast;A+JavaScript+Developer;A+Competitive+Programmer;Learning+and+Growing" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&size=32&duration=3500&pause=500&color=ee2a7b&center=true&width=435&lines=Hi%2C+👋+I+am+Vinay+Chhabra;A+React+Enthusiast;A+JavaScript+Developer;A+Competitive+Programmer;Learning+and+Growing" alt="Typing SVG"/>
 </div>
  <div align="center">
          
@@ -33,9 +33,9 @@
  <br>
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-walker-23&theme=ambient_gradient&card_width=500&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-walker-23&theme=ambient_gradient&card_width=350&card_height=100&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-walker-23&theme=ambient_gradient&card_width=200&card_height=500&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-walker-23&theme=ambient_gradient&card_width=200&card_height=100&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-walker-23&theme=ambient_gradient&card_width=300&card_height=190&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-walker-23&theme=ambient_gradient&card_width=200&card_height=700&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 <br>
 [![Vinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-walker-23&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
