@@ -64,7 +64,7 @@ src="https://img.shields.io/github/followers/code-walker-23?logo=github&style=fo
 # 📊 GitHub Stats:
 <div align="center">
         
-![](https://github-readme-stats.vercel.app/api?username=code-walker-23&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=code-walker-23&theme=ambient_gradient&card_width=200&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-walker-23&theme=ambient_gradient&card_width=400&hide_border=false)
 <br>
 <br>
