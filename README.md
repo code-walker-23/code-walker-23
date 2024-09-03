@@ -33,7 +33,7 @@
  <br>
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-walker-23&theme=ambient_gradient&card_width=500&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-walker-23&theme=ambient_gradient&card_width=500&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-walker-23&theme=ambient_gradient&card_width=350&card_height=100&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-walker-23&theme=ambient_gradient&card_width=200&card_height=500&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
@@ -46,18 +46,15 @@
  ### Coding Stats
  
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 
 ### Waketime
 
-[![Vinay Chhabra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code-walker-23)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+        
+[![Vinay Chhabra's wakatime stats](https://github-readme-stats-code-walker-23s-projects.vercel.app/api/wakatime?username=coder_walker)](https://github.com/anuraghazra/github-readme-stats)        
 
-
+<div/>
 
 
