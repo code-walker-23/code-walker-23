@@ -42,7 +42,8 @@
 <br><br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 </div>
-        
+
+ ### Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
