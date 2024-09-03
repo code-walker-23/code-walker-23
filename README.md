@@ -85,10 +85,4 @@ Markdown   10 mins         ███████▓░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<div align="center">
-
-[![Vinay Chhabra's wakatime stats](https://github-readme-stats-b1vu.vercel.app/api/wakatime?username=coder_walker)](https://github.com/anuraghazra/github-readme-stats)        
-
-<div/>
-
 
