@@ -1,4 +1,5 @@
-<!-- Layout with Markdown and HTML -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <table>
 <tr>
@@ -85,8 +86,7 @@ C++          0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 
 <div align="center">
