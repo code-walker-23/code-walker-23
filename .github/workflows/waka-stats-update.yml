@@ -1,43 +1,41 @@
 name: Waka Update
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
+  workflow_dispatch:  # For manual workflow trigger
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Runs at 12 AM UTC (5:30 AM IST)
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: athul/waka-readme@master  # This action name; do NOT replace with anything else
         with:
-          # GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: code-walker-23/code-walker-23 # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: TOML EZHIL # optional
-          ### commit
-          COMMIT_MESSAGE: Updated Readme # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Vinay Chhabra # optional
-          AUTHOR_EMAIL: chhabravinay549@gmail.com # optional
-          # you can populate email-id with secretes instead
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Required; should be in your repository secrets
+
+          # Optional meta
+          API_BASE_URL: https://wakatime.com/api  # Optional; default is fine
+          REPOSITORY: code-walker-23/code-walker-23  # Optional; your GitHub repo (no need to specify if this is the same repo)
+
+          # Content configuration
+          SHOW_TITLE: true  # Optional; shows the "WakaTime Stats" title
+          SECTION_NAME: waka  # Optional; customize the section name (defaults to "waka")
+          BLOCKS: default  # Optional; you can specify custom blocks like language, editors, etc. 
+          CODE_LANG: rust  # Optional; primary language to show
+          TIME_RANGE: all_time  # Optional; range for stats (last_7_days, last_30_days, etc.)
+          LANG_COUNT: 10  # Optional; number of languages to show
+          SHOW_TIME: true  # Optional; shows time spent on coding
+          SHOW_TOTAL: true  # Optional; shows total coding time
+          SHOW_MASKED_TIME: false  # Optional; shows masked time
+          STOP_AT_OTHER: true  # Optional; stop showing languages after "Other"
+          IGNORED_LANGUAGES: TOML EZHIL  # Optional; languages to ignore
+
+          # Commit configuration
+          COMMIT_MESSAGE: "Updated WakaTime stats in README"  # Optional; commit message
+          TARGET_BRANCH: master  # Optional; branch where README.md is located
+          TARGET_PATH: README.md  # Optional; the file to update (usually README.md)
+          COMMITTER_NAME: GitHubActionBot  # Optional; name for the committer
+          COMMITTER_EMAIL: action-bot@github.com  # Optional; email for the committer
+          AUTHOR_NAME: Vinay Chhabra  # Optional; your name for the commit
+          AUTHOR_EMAIL: chhabravinay549@gmail.com  # Optional; your email for the commit
