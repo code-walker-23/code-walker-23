@@ -73,10 +73,6 @@ src="https://img.shields.io/github/followers/code-walker-23?logo=github&style=fo
 
 
 
-# My GitHub Stats
-
-
-
 <!--START_SECTION:waka-->
 
 ```rust
@@ -94,11 +90,10 @@ C++          0 secs          -------------------------   00.31 %
 
 
 
-
-
 <div align="center">
   
-<br><br>
+<br>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 </div>
