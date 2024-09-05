@@ -33,7 +33,7 @@ jobs:
 
           # Commit configuration
           COMMIT_MESSAGE: "Updated WakaTime stats in README"  # Optional; commit message
-          TARGET_BRANCH: master  # Optional; branch where README.md is located
+          TARGET_BRANCH: main  # Optional; branch where README.md is located
           TARGET_PATH: README.md  # Optional; the file to update (usually README.md)
           COMMITTER_NAME: GitHubActionBot  # Optional; name for the committer
           COMMITTER_EMAIL: action-bot@github.com  # Optional; email for the committer
