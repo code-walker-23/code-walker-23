@@ -84,10 +84,10 @@ From: 02 September 2024 - To: 04 September 2024
 
 Total Time: 1 hr 8 mins
 
-JavaScript   32 mins         ttttttttttttddddddddddddd   47.95 %
-YAML         24 mins         tttttttttdddddddddddddddd   36.08 %
-Markdown     10 mins         tttlddddddddddddddddddddd   15.65 %
-C++          0 secs          ddddddddddddddddddddddddd   00.31 %
+JavaScript   32 mins         >>>>>>>>>>>>-------------   47.95 %
+YAML         24 mins         >>>>>>>>>----------------   36.08 %
+Markdown     10 mins         >>>>---------------------   15.65 %
+C++          0 secs          -------------------------   00.31 %
 ```
 
 <!--END_SECTION:waka-->
