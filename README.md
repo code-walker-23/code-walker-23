@@ -76,20 +76,20 @@ src="https://img.shields.io/github/followers/code-walker-23?logo=github&style=fo
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2024 - To: 03 November 2024
+From: 02 September 2024 - To: 04 November 2024
 
-Total Time: 162 hrs 31 mins
+Total Time: 172 hrs 6 mins
 
-JavaScript            113 hrs 19 mins >>>>>>>>>>>>>>>>>--------   69.67 %
-TypeScript            35 hrs 42 mins  >>>>>--------------------   21.95 %
-C++                   6 hrs 40 mins   >------------------------   04.11 %
-CSS                   1 hr 28 mins    -------------------------   00.91 %
-JSON                  1 hr 19 mins    -------------------------   00.82 %
-Prisma                1 hr 14 mins    -------------------------   00.76 %
-Bash                  1 hr 11 mins    -------------------------   00.74 %
-YAML                  24 mins         -------------------------   00.25 %
-HTML                  24 mins         -------------------------   00.25 %
-Image (svg)           18 mins         -------------------------   00.19 %
+JavaScript            122 hrs 44 mins >>>>>>>>>>>>>>>>>>-------   71.26 %
+TypeScript            35 hrs 42 mins  >>>>>--------------------   20.73 %
+C++                   6 hrs 40 mins   >------------------------   03.88 %
+CSS                   1 hr 29 mins    -------------------------   00.87 %
+JSON                  1 hr 19 mins    -------------------------   00.77 %
+Bash                  1 hr 15 mins    -------------------------   00.73 %
+Prisma                1 hr 14 mins    -------------------------   00.72 %
+Image (svg)           25 mins         -------------------------   00.25 %
+YAML                  24 mins         -------------------------   00.24 %
+HTML                  24 mins         -------------------------   00.23 %
 ```
 
 <!--END_SECTION:waka-->
