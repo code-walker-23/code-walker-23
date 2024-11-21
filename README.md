@@ -2,15 +2,7 @@
 <tr>
 <!-- Left Side -->
 <td style="width: 50%; vertical-align: top;">
-<div style="
-  max-width: 600px; 
-  margin: auto; 
-  padding: 20px; 
-  border: 2px solid #ee2a7b; /* Border color set to #ee2a7b */
-  border-radius: 10px; 
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
-  background-color: #f9f9f9;
-">
+<div>
 <h2>💫 About Me:</h2>
 <p>🌱 <strong>I’m currently learning Data Structures and Algorithms</strong></p>
 <p>💬 <strong>Ask me about:</strong></p>
