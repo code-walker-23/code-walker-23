@@ -4,7 +4,7 @@
 <td style="width: 50%; vertical-align: top;">
 <div>
 <h2>💫 About Me:</h2>
-<p>🌱 <strong>I’m currently learning Data Structures and Algorithms</strong></p>
+<p>🌱 <strong>I’m currently learning Frontend System Design</strong></p>
 <p>💬 <strong>Ask me about:</strong></p>
 <ul>
   <li>Data Structures and Algorithms</li>
@@ -54,11 +54,7 @@ src="https://img.shields.io/github/followers/code-walker-23?logo=github&style=fo
 # 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats-b1vu.vercel.app/api?username=code-walker-23&theme=ambient_gradient&card_width=200&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-walker-23&theme=ambient_gradient&card_width=400&hide_border=true&count_private=true)
-<br>
-<br>
-[![Vinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-walker-23&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
+  [![Vinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-walker-23&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
 <br>
 
 </div>
