@@ -64,7 +64,7 @@ src="https://img.shields.io/github/followers/code-walker-23?logo=github&style=fo
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2024 - To: 14 April 2025
+From: 02 September 2024 - To: 15 April 2025
 
 Total Time: 260 hrs 41 mins
 
