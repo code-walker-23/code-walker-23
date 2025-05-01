@@ -32,9 +32,9 @@
 </div>
 
 <div align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=code-walker-23&icon=0&color=0" alt="Visit Count"/>
-</a>
+
+  ![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue?style=for-the-badge)
+
 <a href="https://www.github.com/code-walker-23" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/code-walker-23?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </div>
@@ -54,7 +54,8 @@ src="https://img.shields.io/github/followers/code-walker-23?logo=github&style=fo
 # 📊 GitHub Stats:
 <div align="center">
   
-  [![Vinay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-walker-23&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
+ ![Vinay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code-walker-23&bg_color=0d1117&color=ffffff&line=ee2a7b&point=f0f0f0&area=true&hide_border=true)
+
 <br>
 
 </div>
