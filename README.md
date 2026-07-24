@@ -46,12 +46,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2024 - To: 22 July 2026
+From: 02 September 2024 - To: 23 July 2026
 
 Total Time: 489 hrs 7 mins
 
 JavaScript            186 hrs 3 mins        >>>>>>>>>----------------   37.92 %
-C++                   132 hrs 28 mins       >>>>>>>------------------   27.00 %
+C++                   132 hrs 29 mins       >>>>>>>------------------   27.00 %
 Java                  79 hrs 44 mins        >>>>---------------------   16.25 %
 TypeScript            44 hrs 42 mins        >>-----------------------   09.11 %
 C                     7 hrs 39 mins         -------------------------   01.56 %
